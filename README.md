@@ -7,5 +7,8 @@
 ## Q-learning Minimum Spanning Tree (QMST)
 ### This Python code implements a Q-learning algorithm to find the Minimum Spanning Tree (MST) in a graph, based on reinforcement learning technique. 
 
+## Simple-Reinforcement Learning (Simple-RL)
+### This Python code implements a multi-agent reinforcement learning scenario using a Q-learning algorithm. Two agents navigate a grid defined by two factors: colours (red, blue, green) and shapes (circle, square, triangle). The agents aim to reach a goal, adjusting their strategy through learning over multiple plays.
+
 ## Travelling Salesman Problem (TSP)
 ### This Python script is designed to solve the problem of reconstructing a sequence from overlapping fragments using concepts from the Traveling Salesman Problem (TSP). The goal is to find the order of fragments that best reconstruct the original sequence with the least difference.
