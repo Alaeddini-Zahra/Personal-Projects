@@ -1,3 +1,5 @@
-### Travelling Salesman Problem (TSP)
+## Multi-Agent Reinforcement Learning (MARL)
+### A Reinforcement Learning simulation to cluster cells based on gene expression data. The example uses randomly generated data for demonstration purposes.
 
-## This Python script is designed to solve a problem related to reconstructing a sequence from overlapping fragments using concepts from the Traveling Salesman Problem (TSP). The goal is to find the order of fragments that best reconstructs the original sequence with the least amount of difference.
+## Travelling Salesman Problem (TSP)
+### This Python script is designed to solve the problem of reconstructing a sequence from overlapping fragments using concepts from the Traveling Salesman Problem (TSP). The goal is to find the order of fragments that best reconstruct the original sequence with the least difference.
