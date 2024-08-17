@@ -4,5 +4,8 @@
 ## Multi-Layer Perceptron (MLP)
 ### This project implements a neural network model in Keras to classify gene expression data for GSE112790 
 
+## Q-learning Minimum Spanning Tree (QMST)
+### This Python code implements a Q-learning algorithm to find the Minimum Spanning Tree (MST) in a graph, based on reinforcement learning technique. 
+
 ## Travelling Salesman Problem (TSP)
 ### This Python script is designed to solve the problem of reconstructing a sequence from overlapping fragments using concepts from the Traveling Salesman Problem (TSP). The goal is to find the order of fragments that best reconstruct the original sequence with the least difference.
