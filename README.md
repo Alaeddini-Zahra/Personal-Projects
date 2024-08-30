@@ -4,9 +4,6 @@
 ## Multi-Layer Perceptron (MLP)
 ### This project implements a neural network model in Keras to classify gene expression data for GSE112790 
 
-## Q-learning Minimum Spanning Tree (QMST)
-### This Python code implements a Q-learning algorithm to find the Minimum Spanning Tree (MST) in a graph, based on reinforcement learning technique. 
-
 ## Simple-Reinforcement Learning (Simple-RL)
 ### This Python code implements a multi-agent reinforcement learning scenario using a Q-learning algorithm. Two agents navigate a grid defined by two factors: colours (red, blue, green) and shapes (circle, square, triangle). The agents aim to reach a goal, adjusting their strategy through learning over multiple plays.
 
